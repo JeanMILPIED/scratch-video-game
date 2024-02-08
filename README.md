@@ -48,4 +48,6 @@
 1. medium - MakeCode: https://arcade.makecode.com/  
 2. difficile - GBStudio: https://github.com/chrismaltby/gb-studio/tree/main
 3. facile - scratch du MIT: https://scratch.mit.edu/projects/editor/?tutorial=getStarted
-4. revue des logiciels pour coder des jeux videos: https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html  
+4. revue des logiciels pour coder des jeux videos: https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html
+5. pour dessiner des maps : https://doc.mapeditor.org/en/stable/manual/introduction/#about-tiled
+6. 
