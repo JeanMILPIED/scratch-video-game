@@ -48,3 +48,4 @@
 1. MakeCode: https://arcade.makecode.com/  
 2. GBStudio: https://github.com/chrismaltby/gb-studio/tree/main
 3. scratch du MIT: https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+4. revue des logiciels pour coder des jeux videos: https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html  
