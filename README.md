@@ -45,7 +45,7 @@
 - ajouter des ennemis ? des bestioles qui se déplacent aléatoirement et te tuent si tu ne les évites pas sur la carte ?
 
 ## Les ressources 🚀  
-1. MakeCode: https://arcade.makecode.com/  
-2. GBStudio: https://github.com/chrismaltby/gb-studio/tree/main
-3. scratch du MIT: https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+1. medium - MakeCode: https://arcade.makecode.com/  
+2. difficile - GBStudio: https://github.com/chrismaltby/gb-studio/tree/main
+3. facile - scratch du MIT: https://scratch.mit.edu/projects/editor/?tutorial=getStarted
 4. revue des logiciels pour coder des jeux videos: https://gamingcampus.fr/boite-a-outils/les-logiciels-de-jeux-video.html  
