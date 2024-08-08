@@ -1,5 +1,14 @@
 # scratch-video-game
-## étapes pour faire ton jeu vidéo  
+## étapes pour faire ton jeu vidéo 
+### Présentation  
+Nous allons ensemble apprendre à coder en scratch un jeu video de type **bac à sable** oû ton personnage (le héros) réalise une quête pour trouver un trésor sur une carte dans un temps minimal.
+
+### Ce que tu vas apprendre étapes par étapes  
+- conceptualiser un jeu vidéo  
+- coder en scratch les déplacements   
+- coder en scratch les animations   
+- imaginer un game play    
+ 
 ### Etape1 - le game play ⭐  
 - imaginer ta quête
 - imaginer ton personnage
@@ -24,25 +33,30 @@
 ### Etape5 - les interractions 👍  
 - imaginer une tuile qui donne de la vie et coder la récupération d'une vie
 - imaginer une tuile qui donne de la magie et coder le "panier de sortilèges" qui est utilisé si bouton A utilisé
-- coder le fait que NPP1 donne un indice si on le rencontre: et cet indice pourrait être "la zone de la carte où se trouve le trésor" (imaginer que la carte est divisée en 9 zones)
+- coder le fait que NPP1 donne un indice si on le rencontre: et cet indice pourrait être "la zone de la carte où se trouve le trésor" (imaginer que la carte est divisée en 9 zones)  
+- coder un passage secret (raccourci) qui emmêne d'une zone de la carte à une autre  
 
 ### Etape6 - l'aléatoire à chaque partie 🎲🎲  
 - pourquoi ne pas mettre le trésor aléatoirement sur la carte à chaque nouvelle partie ? comment le coder ?
 - pareil pour la position du NPP
 
 ### Etape7 - le temps ⏱  
-- ajouter un timer
-- coder le nombre de points en fonction du timer en fin de partie
-- coder le "game over" au bout du temps
+- ajouter un timer/chronomètre
+- coder le nombre de points en fonction du temps passé ppur finir la partie  
+- coder le "game over" au bout du temps maximum (3 minutes?)  
 
 ### Etape8 - le game over 💀  
 - dessiner la fenêtre game over et son animation
-- coder le game over si plus de vie
-- (note: on a déjà codé le game over si plus de temps)
+- coder le game over si le héros n'a plus de vie  
+- (note: on a déjà codé le game over si il n'y a plus de temps)
 
 ### Etape9 - pause 😁  
 - qu'est ce qu'il faudrait de plus pour rendre le jeu amusant ?
-- ajouter des ennemis ? des bestioles qui se déplacent aléatoirement et te tuent si tu ne les évites pas sur la carte ?
+- ajouter des ennemis ? des bestioles qui se déplacent aléatoirement et te tuent si tu ne les évites pas sur la carte ?  
+
+### Etape10 - partager en ligne ton jeu  
+- comment créer un lien partageable?  
+- le tester avec tes amis  
 
 ## Les ressources 🚀  
 1. medium - MakeCode: https://arcade.makecode.com/  
